@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "paupers-reddit"
+    }
+  },
+  "defaultProject": "paupers-reddit",
+  "cli": {
+    "analytics": false
+  }
 }
